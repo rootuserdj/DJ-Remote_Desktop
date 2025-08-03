@@ -32,8 +32,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/dj-remote-desktop.git
-   cd dj-remote-desktop
+   git clone https://github.com/yourusername/dj-remote_desktop.git
+   cd dj-remote_desktop
    ```
 
 2. **Create a Virtual Environment** (recommended):
@@ -57,7 +57,7 @@
 
 4. **Run the Application**:
    ```bash
-   python dj_remote_desktop.py
+   python remote_desktop.py
    ```
 
 ## Usage
