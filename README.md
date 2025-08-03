@@ -16,10 +16,10 @@
 ## Screenshots
 
 ### Server UI
-![Server UI](screenshots/server_ui.png)
+![Server UI](screenshots/server.jpg)
 
 ### Client UI
-![Client UI](screenshots/client_ui.png)
+![Client UI](screenshots/client.jpg)
 
 *Note: Replace `screenshots/server_ui.png` and `screenshots/client_ui.png` with the actual paths to your screenshots after uploading them to your GitHub repository.*
 
