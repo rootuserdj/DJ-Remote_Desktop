@@ -21,7 +21,6 @@
 ### Client UI
 ![Client UI](client.jpg)
 
-*Note: Replace `screenshots/server_ui.png` and `screenshots/client_ui.png` with the actual paths to your screenshots after uploading them to your GitHub repository.*
 
 ## Prerequisites
 
@@ -112,9 +111,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Created by Dhananjay Sah  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📧 Email: [rootuserdj@gmail.com](rootuserdj@gmail.com)  
 📞 Phone: +977 9824204425  
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+🌐 GitHub: [rootuserdj](https://github.com/rootuserdj)
 
 ---
 
