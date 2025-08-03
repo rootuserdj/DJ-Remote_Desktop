@@ -104,6 +104,12 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows PEP 8 guidelines and includes appropriate comments.
 
+# DJ Remote Desktop
+
+![DJ Remote Desktop Logo](client.jpg)
+
+**DJ Remote Desktop** is a modern, open-source remote desktop application...
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
